@@ -24,7 +24,7 @@
 
   [device_photo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Device image"
 
-  [Image_connections]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Device Connections"
+  [Image_connections]: https://github.com/xaviervidalBCN/hw-658/blob/master/hw-658%20with%20RPIz.png "Device Connections"
 
 
 
