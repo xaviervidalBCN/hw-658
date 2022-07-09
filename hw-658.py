@@ -1,4 +1,5 @@
-
+#test github
+#TEst 2
 #!/usr/bin/python3
 # -*- coding:utf-8 -*-
 import serial  # Més informació --> https://pyserial.readthedocs.io/en/latest/pyserial.html
